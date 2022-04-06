@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>			"D:\RevitApi\RevitAPITraining_ObjectCopy2.dll"		</Assembly>
+		<AddInId>4F7CD014-509F-4399-9025-1CA56F27E9F5 </AddInId>
+		<FullClassName>		RevitAPITraining_ObjectCopy2.Main		</FullClassName>
+		<VendorId>			ADSK		</VendorId>
+		<Text>Копирование группы с выравниванием по комнате	</Text>
+	</AddIn>
+</RevitAddIns>
